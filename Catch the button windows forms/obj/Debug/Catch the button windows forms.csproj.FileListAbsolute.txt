@@ -1,0 +1,12 @@
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\bin\Debug\Catch the button windows forms.exe.config
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\bin\Debug\Catch the button windows forms.exe
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\bin\Debug\Catch the button windows forms.pdb
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch_the_button_windows_forms.mainmenu.resources
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch_the_button_windows_forms.Properties.Resources.resources
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch the button windows forms.csproj.GenerateResource.cache
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch the button windows forms.csproj.CoreCompileInputs.cache
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch the button windows forms.exe
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch the button windows forms.pdb
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch_the_button_windows_forms.optionsclicked.resources
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch_the_button_windows_forms.startclicked.resources
+C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\obj\Debug\Catch the button windows forms.csprojAssemblyReference.cache
