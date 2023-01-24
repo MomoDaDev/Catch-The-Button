@@ -16,7 +16,7 @@ namespace Catch_the_button_windows_forms
 
 
 
-        SoundPlayer playmusic_menu = new SoundPlayer(@"C:\Users\Moritz\source\C#\Kleinere Projekte\Catch the button windows forms\Catch the button windows forms\bin\Debug\mainmenu.wav");
+        SoundPlayer playmusic_menu = new SoundPlayer(@"mainmenu.wav");
 
 
 
